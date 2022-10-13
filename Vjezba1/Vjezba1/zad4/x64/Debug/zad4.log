@@ -1,0 +1,5 @@
+﻿  main.cpp
+  vector.cpp
+C:\Users\Ante\Desktop\Objektno programiranje_vjezbe\Vjezbe2022\Vjezba1\Vjezba1\zad4\vector.cpp(35,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  zad4.vcxproj -> C:\Users\Ante\Desktop\Objektno programiranje_vjezbe\Vjezbe2022\Vjezba1\Vjezba1\x64\Debug\zad4.exe
